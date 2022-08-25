@@ -19,7 +19,7 @@ printing the number of parameters in the network
 | decoder1.0.bias   | 256        |
 | decoder1.2.weight | 200704     |
 | decoder1.2.bias   | 784        |
-+-------------------+------------+
+
 Total Trainable Params: 468368
 Number of parameters in encoder= 233856
 Number of parameters in decoder= 234512
@@ -28,9 +28,9 @@ Number of parameters in decoder= 234512
 
 Below mentioned are the number of parameters in each of the layers.
 printing the number of parameters in the network
-+---------------------------+------------+
+
 | Modules                  | Parameters |
-+---------------------------+------------+
+|:------------------------:|:----------:|
 | encoder_decoder.0.weight | 36         |
 | encoder_decoder.0.bias   | 4          |
 | encoder_decoder.3.weight | 288        |
@@ -41,7 +41,7 @@ printing the number of parameters in the network
 | encoder_decoder.8.bias   | 2          |
 | encoder_decoder.10.weight| 18         |
 | encoder_decoder.10.bias  | 1          |
-+---------------------------+------------+
+
 Total Trainable Params: 721
 Number of parameters in encoder= 336
 Number of parameters in decoder= 385
