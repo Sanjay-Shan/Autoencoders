@@ -8,9 +8,9 @@ This repository has a implementation of the Autoencoder from scratch in modes na
 
 Below mentioned are the number of parameters in each of the layers.
 printing the number of parameters in the network
-+-------------------+------------+
+
 | Modules           | Parameters |
-+-------------------+------------+
+|:-----------------:|:----------:|
 | encoder1.0.weight | 200704     |
 | encoder1.0.bias   | 256        |
 | encoder1.2.weight | 32768      |
