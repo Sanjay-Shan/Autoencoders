@@ -4,7 +4,7 @@ This repository has a implementation of the Autoencoder from scratch in modes na
 1. Fully Connected Layers
 2. Convolutional Layers
 
-## Mode_1 -- Fully Connected layers
+## Mode1 -- Fully Connected layers
 
 Below mentioned are the number of parameters in each of the layers.
 printing the number of parameters in the network
@@ -24,7 +24,7 @@ Total Trainable Params: 468368
 Number of parameters in encoder= 233856
 Number of parameters in decoder= 234512
 
-## Mode_2 -- Convolutional Layers
+## Mode2 -- Convolutional Layers
 
 Below mentioned are the number of parameters in each of the layers.
 printing the number of parameters in the network
@@ -51,5 +51,5 @@ Looking into the parameters in both the models ,it is evident that the number of
 when compared to the Fully connected layer encoder. Hence is the reason why convolutional neural network is preferred for images.
 And also looking into the images it is pretty clear that conv encoder does the better job than the fully connectd layer encoder.
 
-# Output Images
+## Output Images
 Images obtained from both the modes has been attached with this repository in their respective folders.
