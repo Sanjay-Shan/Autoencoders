@@ -59,5 +59,5 @@ Images obtained from both the modes has been attached with this repository in th
 <kbd>![Model image1](Output/Mode1/2.png)</kbd>
 
 ### Mode 2
-<kbd>![Mode2 image1](Output/mode2/01.png)</kbd>
-<kbd>![Mode2 image1](Output/mode2/02.png)</kbd>
+<kbd>![Mode2 image1](Output/mode2/01.jpg)</kbd>
+<kbd>![Mode2 image1](Output/mode2/02.jpg)</kbd>
