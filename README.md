@@ -54,5 +54,10 @@ And also looking into the images it is pretty clear that conv encoder does the b
 ## Output Images
 Images obtained from both the modes has been attached with this repository in their respective folders.
 
+### Mode 1
 <kbd>![Model image1](Output/Mode1/1.png)</kbd>
 <kbd>![Model image1](Output/Mode1/2.png)</kbd>
+
+### Mode 2
+<kbd>![Mode2 image1](Output/mode2/1.png)</kbd>
+<kbd>![Mode2 image1](Output/mode2/2.png)</kbd>
